@@ -1,0 +1,22 @@
+<h1>How to Play</h1>
+<h2> Building Phase:</h2>
+- Start by choosing your class, bonus attack, and ability. Then, perform all actions relating to your class and ability.<br>
+- After this is done, each player may draw five cards and discard one, leaving them with four to begin the game.
+<h2>Combat Phase:</h2>
+- Each player begins with 100 hitpoints, and loses them as they are damaged.<br>
+- In order of speed, players begin their turn by discarding as desired, then drawing once if they have less than five cards.<br>
+- Players attack the player with the next lowest speed, looping around and skipping themself.<br>
+- After attacking, the weapon's ability activates, and the card is discarded. Numbers always round down.<br>
+- This phase ends when the deck runs out or a player loses all their hitpoints.
+<h2>Intermission Phase:</h2>
+- The player with the most hitpoints loses 0 Life Points. Each next place loses 2 more. Ties go to the faster player.<br>
+- All players discard until they have 3 cards.<br>
+- The winner draws cards equal to the amount of players, keeps one, and passes the rest to second place. Repeat.<br>
+- Each player draws three tokens, and keeps one. Mages gain an extra random token as well.<br>
+- The deck is reshuffled (players keep cards in their hand) and another combat phase begins.
+<h2>Controls:</h2>
+- Type numbers to enter the game code.<br>
+- Type a name in the class choosing screen.<br>
+- Click the deck or one of three cards to draw a card.<br>
+- Click a card in your hand to select it.<br>
+- Click "space" to enlarge the selected card.<br>
